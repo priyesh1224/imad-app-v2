@@ -1,0 +1,109 @@
+<MENU>
+<head name="PIZZA">
+  <item id="1">
+    <name>Margeritta</name>
+    <size>S</size>
+    <price>399</price>
+    </item>
+    <item id="2">
+    <name>Mxican greenwave</name>
+    <size>S</size>
+    <price>599</price>
+    </item>
+    <item id="3">
+    <name>piza mania combo</name>
+    <size>S</size>
+    <price>499</price>
+    </item>
+    <item id="4">
+    <name>Veggie Supreme</name>
+    <size>S</size>
+    <price>399</price>
+    </item>
+    <item id="5">
+    <name>Paneer Delight</name>
+    <size>S</size>
+    <price>599</price>
+    </item>
+    <item id="6">
+    <name>Exotica</name>
+    <size>S</size>
+    <price>480</price>
+    </item>
+    <item id="7">
+    <name>Paneer vegorama</name>
+    <size>S</size>
+    <price>480</price>
+    </item>
+    <item id="8">
+    <name>Veggie Lover</name>
+    <size>S</size>
+    <price>425</price>
+    </item>
+    <item id="9">
+    <name>Country Feast</name>
+    <size>S</size>
+    <price>399</price>
+    </item>
+    <item id="10">
+    <name>Double Cheese</name>
+    <size>S</size>
+    <price>340</price>
+    </item>
+    </head>
+    <head name="SIDES">
+    <item id="11">
+    <name>Cheese Garlic Bread</name>
+    <size>S</size>
+    <price>99</price>
+    </item>
+    <item id="12">
+    <name>GarlicBread Stix</name>
+    <size>S</size>
+    <price>85</price>
+    </item>
+    <item id="13">
+    <name>Cheesy Pepper Veg Pasta</name>
+    <size>S</size>
+    <price>139</price>
+    </item>
+    <item id="14">
+    <name>Garlic Bread Exotica</name>
+    <size>S</size>
+    <price>99</price>
+    </item>
+    <item id="15">
+    <name>Garlic Bread Spicy Supreme</name>
+    <size>S</size>
+    <price>125</price>
+    </item>
+    </head>
+    <head name="DRINKS AND DESsERTs">
+    <item id="16">
+    <name>Pepsi</name>
+    <size>S</size>
+    <price>25</price>
+    </item>
+    <item id="17">
+    <name>Appy Fizz</name>
+    <size>S</size>
+    <price>61</price>
+    </item>
+    <item id="18">
+    <name>RedBull</name>
+    <size>S</size>
+    <price>127</price>
+    </item>
+    <item id="19">
+    <name>Choco Mousse</name>
+    <size>S</size>
+    <price>69</price>
+    </item>
+    <item id="20">
+    <name>Choco Truffle Cake</name>
+    <size>S</size>
+    <price>69</price>
+    </item>
+    </head>
+    
+    </MENU>
